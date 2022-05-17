@@ -1,4 +1,4 @@
-Olá! eu sou Milagres 18
+<h2>Olá! eu sou Milagres 18</h2>
 
 💼 Trabalhando atualmente com front-end <br>
 👨‍🎓 Estudando HTML e CSS <br>
