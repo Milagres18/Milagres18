@@ -2,8 +2,9 @@
 
 💼 Trabalhando atualmente com front-end <br>
 👨‍🎓 Estudando HTML e CSS <br>
+✈️ Amo viajar <br>
 🐢 Levando a vida com calma <br>
-🙃 Pronomes: Ele/dele
+🙃 Ele/dele
 
 <div align="center">
   <a href="https://github.com/Milagres18">
