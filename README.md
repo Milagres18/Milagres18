@@ -1,7 +1,7 @@
 <h2>Olá! eu sou Milagres 18</h2>
 
 💼 Estudando Técnico em sistemas de redes <br>
-👨‍🎓 Estudando HTML e CSS <br>
+👨‍🎓 Estudando TI e muito mais. <br>
 ✈️ Amo viajar <br>
 🐢 Levando a vida com calma <br>
 🙃 Ele/dele
