@@ -4,7 +4,6 @@
 👨‍🎓 Estudando TI e muito mais. <br>
 ✈️ Amo viajar <br>
 🐢 Levando a vida com calma <br>
-🙃 Ele/dele
 
 <div align="center">
   <a href="https://github.com/Milagres18">
