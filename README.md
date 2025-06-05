@@ -1,9 +1,6 @@
-<h2>Olá! eu sou Milagres 18</h2>
+# Olá! Seja bem vindo ao meu GitHub
 
-💼 Estudando Técnico em sistemas de redes <br>
-👨‍🎓 Estudando TI e muito mais. <br>
-✈️ Amo viajar <br>
-🐢 Levando a vida com calma <br>
+![Gif de programação](https://tenor.com/pt-BR/view/joy-gif-25414590)
 
 <div align="center">
   <a href="https://github.com/Milagres18">
