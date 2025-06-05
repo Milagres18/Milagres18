@@ -1,8 +1,9 @@
 # Olá! Seja bem vindo ao meu GitHub
 
-<div align="center" width="220" height="165" >
-<img width="220" height="165" src="https://media1.tenor.com/m/zn8iyusePtgAAAAC/joy.gif">
-</div>
+<p align="center">
+  <img src="https://media1.tenor.com/m/zn8iyusePtgAAAAC/joy.gif" />
+</p>
+
 
 ---------------
 
