@@ -8,7 +8,14 @@
 ---------------
 
 ### 👴 Olá, me chamo Bernardo Milagres! <br> 💻 Futuro desenvolvedor Full-Stack. <br> ✈️ Apaixonado por viagens!<br> 🎥 Cinéfilo de longa data!
-------
+
+### Me siga em minhas redes socias!  
+<div> 
+  <a href="https://instagram.com/becml_" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href = "mailto:bernardomilagres18@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/bernardo-milagres-055550239/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  </div>
+
 ## Minhas tecnologias! 
 <p align="center">
   <img width="30" src="https://devicon-website.vercel.app/api/html5/original.svg">
@@ -25,12 +32,7 @@
 
 --------
 
-## Me siga em minhas redes socias!  
-<div> 
-  <a href="https://instagram.com/becml_" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href = "mailto:bernardomilagres18@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/bernardo-milagres-055550239/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  </div>
+
   
 
   
