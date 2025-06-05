@@ -1,6 +1,6 @@
 # Olá! Seja bem vindo ao meu GitHub
 
-![Gif de programação](https://tenor.com/pt-BR/view/joy-gif-25414590)
+![Gif de programação](https://media1.tenor.com/m/zn8iyusePtgAAAAC/joy.gif)
 
 <div align="center">
   <a href="https://github.com/Milagres18">
