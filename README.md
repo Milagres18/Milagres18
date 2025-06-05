@@ -1,6 +1,6 @@
 # Olá! Seja bem vindo ao meu GitHub
 
-<div aling="center">
+<div text-aling="center">
 <img src="https://media1.tenor.com/m/zn8iyusePtgAAAAC/joy.gif">
 </div>
 
@@ -20,22 +20,22 @@
 <path d="M128.095 218.841V185.608L127.955 185.645L92.3813 176.04L90.1072 150.564H72.821H58.0425L62.5175 200.718L127.948 218.882L128.095 218.841Z" fill="#EBEBEB"/>
 <path d="M167.318 134.593L163.61 176.019L127.985 185.635V218.866L193.468 200.718L193.948 195.321L201.454 111.229L202.233 102.651L208 38H127.985V69.9423H172.994L170.088 102.651H127.985V134.593H167.318Z" fill="white"/>
 </svg>
-
-
- ## Me siga em minhas redes socias!  <div> 
-  <a href="https://instagram.com/becml_" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href = "mailto:bernardomilagres18@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/bernardo-milagres-055550239/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  </div>
-
-  ----
-
-
+  
+---------
   <div align="center">
   <a href="https://github.com/Milagres18">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Milagres18&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Milagres18&layout=compact&langs_count=7&theme=dracula"/>
 </div>
+
+--------
+
+## Me siga em minhas redes socias!  
+<div> 
+  <a href="https://instagram.com/becml_" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href = "mailto:bernardomilagres18@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/bernardo-milagres-055550239/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  </div>
   
 
   
