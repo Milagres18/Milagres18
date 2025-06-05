@@ -1,6 +1,6 @@
 # Olá! Seja bem vindo ao meu GitHub
 
-<div aling="Center">
+<div aling="center">
 <img src="https://media1.tenor.com/m/zn8iyusePtgAAAAC/joy.gif"></>
 </div>
 -------------
