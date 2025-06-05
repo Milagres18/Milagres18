@@ -1,6 +1,8 @@
 # Olá! Seja bem vindo ao meu GitHub
 
-![Gif de programação](https://media1.tenor.com/m/zn8iyusePtgAAAAC/joy.gif)
+<div aling="Center">
+<img src="https://media1.tenor.com/m/zn8iyusePtgAAAAC/joy.gif"></>
+</div>
 -------------
 
 ### 👴 Olá, me chamo Bernardo Milagres! <br> 💻 Futuro desenvolvedor Full-Stack. <br> ✈️ Apaixonado por viagens!<br> 🎥 Cinéfilo de longa data!
